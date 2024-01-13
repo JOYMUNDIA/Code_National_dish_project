@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&family=Montserrat:wght@400;500;600;700&family=Open+Sans&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,600&display=swap');
+
+@mixin vertical-align($position: relative) {
+    position: $position;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  body, html {
+    background: #21222d;
+  }
+
+  #wrapper {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 15%;
+  }
+  h1 {
+    color: #EEE;
+    text-shadow: -1px -2px 3px rgba(17, 17, 17, 0.3);
+    text-align: center;
+    font-family: "Monsterrat", sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 80px;
+    margin-bottom: -5px;
+  }
+  h1 underline {
+    border-top: 5px solid rgba(26, 188, 156, 0.3);
+    border-bottom: 5px solid rgba(26, 188, 156, 0.3);
+  }
+  h3 {
+    width: 570px;
+    margin-left: 16px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    color: #EEE;
+  }
+  
+  a{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    color: white;
+  }

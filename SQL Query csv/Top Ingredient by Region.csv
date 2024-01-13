@@ -1,0 +1,44 @@
+Region1,Region_MainContent,Top_Ingredient_count,Percent_Region1_Total
+"Australia and New Zealand","Castor Sugar",1,25.00
+"Australia and New Zealand",Eggs,1,25.00
+"Australia and New Zealand",Flour,1,25.00
+"Australia and New Zealand",Meat,1,25.00
+Caribbean,Rice,4,14.81
+"Central America",Beans,4,21.05
+"Central Asia",Flour,2,16.67
+"Central Asia",Lamb,2,16.67
+"Central Asia",Meat,2,16.67
+"Central Asia",Onion,2,16.67
+"Central Asia",Rice,2,16.67
+"Central Asia",Water,2,16.67
+"Eastern Africa",Maize,5,27.78
+"Eastern Asia",Vegetables,2,28.57
+"Eastern Europe",Meat,3,11.11
+Melanesia,Bananas,1,33.33
+Melanesia,Coconut,1,33.33
+Melanesia,Fish,1,33.33
+Micronesia,Coconut,2,33.33
+Micronesia,Lemon,2,33.33
+Micronesia,Peppers,2,33.33
+"Middle Africa",Chicken,4,30.77
+"Northern Africa",Flour,2,10.00
+"Northern Africa",Onion,2,10.00
+"Northern Africa",Potatoes,2,10.00
+"Northern America",Buns,1,25.00
+"Northern America",Cheese,1,25.00
+"Northern America","French Fries",1,25.00
+"Northern America",Gravy,1,25.00
+"Northern Europe",Beef,4,12.12
+Polynesia,Coconut,1,100.00
+"South America",Beef,5,14.71
+"South-eastern Asia",Rice,3,21.43
+"South-eastern Asia","Rice Noodles",3,21.43
+"Southern Africa",Meat,2,66.67
+"Southern Asia",Rice,6,33.33
+"Southern Europe",Chicken,3,7.32
+"Southern Europe",Meat,3,7.32
+"Southern Europe",Rice,3,7.32
+"Western Africa",Peanuts,2,14.29
+"Western Africa",Rice,2,14.29
+"Western Asia",Rice,7,18.42
+"Western Europe",Potatoes,3,18.75

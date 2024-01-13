@@ -1,0 +1,173 @@
+Country_ID,Country,Dish_ID,National Dish
+1,Afghanistan,1,Kabuli Pulao
+3,Albania,2,Tave Kosi
+4,Algeria,3,Couscous
+5,American Samoa,4,Palusami
+6,Andorra,5,Escudella I Carn D'Olla
+7,Angola,6,Muamba De Galinha
+11,Argentina,7,Asado
+12,Armenia,8,Harissa
+14,Australia,9,Meat Pie
+15,Austria,10,Wiener Schnitzel
+16,Azerbaijan,11,Plov
+17,Bahamas,12,Crack Conch With Peas And Rice
+18,Bahrain,13,Chicken Machboos
+19,Bangladesh,14,Fish And Rice
+20,Barbados,15,Cou Cou And Flying Fish
+21,Belarus,16,Draniki
+22,Belgium,17,Moules-Frites
+23,Belize,18,Belizean Rice And Beans
+24,Benin,19,Kuli Kuli
+26,Bhutan,20,Ema Datshi
+27,Bolivia (Plurinational State Of),21,Saltenas
+29,Bosnia And Herzegovina,22,Cevapi
+30,Botswana,23,Seswaa
+32,Brazil,24,Feijoada
+35,Brunei Darussalam,25,Ambuyat
+36,Bulgaria,26,Shopska Salad
+38,Burundi,27,Boko Boko
+40,Cambodia,28,Amok Trey
+41,Cameroon,29,Ndole
+42,Canada,30,Poutine
+39,Cabo Verde,31,Cachupa
+211.1,Catalonia,32,Pa Amb Tomaquet
+46,Chile,33,Pastel De Choclo
+47,China,34,Peking Duck
+52,Colombia,35,Bandeja Paisa
+53,Comoros,36,Langouste A La Vanille
+235.1,Cornwall,37,Cornish Pasty
+56,Costa Rica,38,Gallo Pinto
+58,Croatia,39,Zagorski Strukli
+59,Cuba,40,Ropa Vieja
+61,Cyprus,41,Fasolada
+62,Czechia,42,Svickova
+64,Democratic Republic of the Congo,43,Poulet A La Moambe
+65,Denmark,44,Frikadeller
+67,Dominica,45,La Bandera
+69,Ecuador,46,Ceviche
+70,Egypt,47,Kushari
+71,El Salvador,48,Pupusa
+235.2,England,49,Chicken Tikka Masala
+72,Equatorial Guinea,50,Succotash
+73,Eritrea,51,Zigini With Injera
+74,Estonia,52,Verivorst
+76,Ethiopia,53,Doro Wat With Injera
+79,Fiji,54,Fiji Kokoda (Fijian Ceviche)
+80,Finland,55,Karjalanpiirakat
+81,France,56,Crepe
+85,Gabon,57,Poulet Nyembwe
+211.2,Galicia,58,Polbo A Feira
+87,Georgia,59,Khachapuri
+88,Germany,60,Sauerbraten
+89,Ghana,61,Fufu
+91,Greece,62,Moussaka
+93,Grenada,63,Oil Down
+95,Guam,64,Kelaguen
+96,Guatemala,65,Pepian
+100,Guyana,66,Pepperpot
+101,Haiti,67,Fried Pork With Rice And Beans
+104,Honduras,68,Plato Tipico De Honduras
+48,"China, Hong Kong Special Administrative Region",69,Dim Sums
+105,Hungary,70,Goulash
+106,Iceland,71,Hakarl
+107,India,72,Khichdi
+108,Indonesia,73,Nasi Goreng
+109,Iran (Islamic Republic Of),74,Chelo Kebab
+110,Iraq,75,Masgouf
+111,Ireland,76,Irish Stew
+113,Israel,77,Falafel
+114,Italy,78,Ragu Alla Bolognese
+57,Cote D’Ivoire,79,Aloco
+115,Jamaica,80,Ackee And Saltfish
+116,Japan,81,Curry-Rice
+118,Jordan,82,Mansaf
+119,Kazakhstan,83,Beshbarmak
+120,Kenya,84,Ugali
+180,Republic Of Korea,85,Kimchi
+250,Kosovo,86,Flia
+122,Kuwait,87,Machboos
+123,Kyrgyzstan,83,Beshbarmak
+124,Lao People'S Democratic Republic,88,Larb
+125,Latvia,89,Pelekie Zirni Ar Speki
+126,Lebanon,90,Kibbeh
+127,Lesotho,91,Pap-Pap
+129,Libya,92,Cuscus Bil-Bosla
+130,Liechtenstein,93,Kasknopfle
+131,Lithuania,94,Cepelinai
+132,Luxembourg,95,Judd Mat Gaardebounen
+133,Madagascar,96,Romazava
+134,Malawi,97,Chambo With Nshima
+135,Malaysia,98,Nasi Lemak
+138,Malta,99,Stuffat Tal-Fenek
+142,Mauritius,100,Dholl Puri
+144,Mexico,101,Taco
+181,Republic Of Moldova,102,Mamaliga
+146,Monaco,103,Barbagiuan
+148,Montenegro,104,Njeguski Prsut
+150,Morocco,105,Tagine
+152,Myanmar,106,Mohinga
+155,Nepal,107,Dal Bhaath
+156,Netherlands,108,Stamppot
+158,New Zealand,109,Pavlova
+159,Nicaragua,38,Gallo Pinto
+160,Niger,110,Dambou
+161,Nigeria,111,Jollof Rice
+63,Democratic People'S Republic Of Korea,85,Kimchi
+164,North Macedonia,112,Tavce Gravce
+235.5,Northern Ireland,113,Ulster Fry
+165,Northern Mariana Islands,64,Kelaguen
+166,Norway,114,Farikal
+167,Oman,115,Shuwa
+168,Pakistan,116,Nihari
+213,State of Palestine,117,Maqluba
+170,Panama,118,Sancocho
+173,Peru,46,Ceviche
+174,Philippines,119,Chicken Adobo
+176,Poland,120,Bigos
+177,Portugal,121,Bacalhau
+178,Puerto Rico,122,Arroz Con Gandules
+179,Qatar,87,Machboos
+54,Congo,123,Poulet Moambe
+183,Romania,124,Sarmale 
+184,Russian Federation,125,Pelmeni
+194,San Marino,126,Torta Tre Monti
+197,Saudi Arabia,127,Kabsa
+235.4,Scotland,128,Haggis
+198,Senegal,129,Thieboudienne
+199,Serbia,130,Cevapcici
+202,Singapore,131,Hainanese Chicken Rice
+204,Slovakia,132,Bryndzove Halusky
+205,Slovenia,133,Ajdovi Zganci
+207,Somalia,134,Bariis Iskukaris
+208,South Africa,135,Bobotie
+211,Spain,136,Paella
+212,Sri Lanka,137,Rice And Curry
+215,Suriname,138,Pom
+217,Sweden,139,Swedish Meatballs
+218,Switzerland,140,Rosti
+219,Syrian Arab Republic,90,Kibbeh
+47.1,Taiwan,141,Beef Noodle Soup
+220,Tajikistan,11,Plov
+251,Tanzania,84,Ugali
+221,Thailand,142,Pad Thai
+86,Gambia,143,Domoda
+226.1,Tobago,144,Curry Crab And Dumplings
+226,Trinidad and Tobago,145,Crab And Callaloo
+227,Tunisia,3,Couscous
+228,Turkey,146,Doner Kebab
+232,Uganda,147,Matoke
+233,Ukraine,148,Borscht
+234,United Arab Emirates,149,Khuzi
+235,United Kingdom Of Great Britain And Northern Ireland,150,N/A
+238,United States Of America,151,Hamburger
+239,United States Virgin Islands,152,Fish & Fungi
+240,Uruguay,153,Chivito
+241,Uzbekistan,11,Plov
+211.3,Valencia,136,Paella
+242,Vanuatu,154,Laplap
+243,Venezuela (Bolivarian Republic Of),155,Pabellon Criollo
+244,Viet Nam,156,Pho
+235.3,Wales,157,Cawl
+247,Yemen,158,Saltah
+248,Zambia,159,Nshima
+249,Zimbabwe,160,Sadza
